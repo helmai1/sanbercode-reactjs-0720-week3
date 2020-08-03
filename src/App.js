@@ -1,12 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Welcome from './tugas11/Tugas11';
+import Buah from './tugas11/Tugas11';
 
 function App() {
   return (
     <div>
-      <Welcome/>
+      <Buah/>
     </div>
   );
 }

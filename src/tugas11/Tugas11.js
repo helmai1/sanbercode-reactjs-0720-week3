@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Welcome extends React.Component {
+class Buah extends React.Component {
     render() {
         let dataHargaBuah = [
             {nama: "Semangka", harga: 10000, berat: 1000},
@@ -31,4 +31,4 @@ class Welcome extends React.Component {
       </container>);
     }
 }
-export default Welcome;
+export default Buah;
